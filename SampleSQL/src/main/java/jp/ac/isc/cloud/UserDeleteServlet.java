@@ -30,5 +30,4 @@ public class UserDeleteServlet extends HttpServlet {
 			e.printStackTrace();
 		}
 	}
-
 }
